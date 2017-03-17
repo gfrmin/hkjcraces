@@ -1,0 +1,19 @@
+syntax: glob
+.*.swp
+*.idea/
+pages/
+cache/
+data/*.csv
+/scrapy.cfg
+/horsemaster/settings.py
+/build/
+/project.egg-info/
+/scrapinghub.yml
+/setup.py
+.Rproj.user
+/.scrapy/
+*.jl
+*.pyc
+*~
+log
+*.Rproj
